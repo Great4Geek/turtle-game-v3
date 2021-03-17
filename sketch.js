@@ -104,7 +104,7 @@ function setup() {
   john.scale = 0.35
   john.visible=false;
   netsprite.visible = false;
-  portal_1 = createSprite(displayWidth/1.5, displayHeight-400,30,200)
+  portal_1 = createSprite(displayWidth/1.5, displayHeight-400,30,displayHeight)
   portal_1.visible = false;
   turtlesprite.visible = false;
   
